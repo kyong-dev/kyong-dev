@@ -9,8 +9,8 @@
 * Graduated Bachelor of Information Technology from Royal Melbourne Institute of Technology, Melbourne.
 * Currently working as a software engineer in South Korea, leading small software development team.
 * Love Coffee and workout regularly at the gym.
-* <a target="_blank" href="https://kyong-dev.github.io/">Devlog</a>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"> on <img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+* <a target="_blank" href="https://kyong-dev.github.io/">Devlog</a><br>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"><img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
 
 <div align=center><h1>📚 STACKS</h1></div>
 
