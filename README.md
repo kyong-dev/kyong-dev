@@ -67,5 +67,5 @@
   <h3>Testing</h3>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/-appium-%662d91?style=for-the-badge&logo=appium&logoColor=white">
+  <img src="https://img.shields.io/badge/appium-662d91?style=for-the-badge&logo=appium&logoColor=white">
 </div>
