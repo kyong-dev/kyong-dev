@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
   <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-0052CC?style=for-the-badge&logo=Eclipse&logoColor=white">
   
   <h3>Testing</h3>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
