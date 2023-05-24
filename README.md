@@ -7,7 +7,7 @@
 * Raised in South Korea. 
 * Used to study and work in Melbourne, Australia.
 * Graduated Bachelor of Information Technology from Royal Melbourne Institute of Technology, Melbourne AU.
-* Currently working as a software engineer in South Korea, leading a small software development team in e-commerce industry.
+* Currently working as a software engineer in Busan, South Korea, leading a small software development team in e-commerce industry.
 * Love coffee and weight lifting
 * <a target="_blank" href="https://kyong-dev.github.io/">Devlog</a><br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"><img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
