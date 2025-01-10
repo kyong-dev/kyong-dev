@@ -65,6 +65,13 @@
   <img src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/gunicorn-499847?style=for-the-badge&logo=gunicorn&logoColor=white">
   <br>
+
+  <h3>Environments</h3>
+  
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/naver%20cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+  <br>
   
   <h3>Tools</h3>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -76,6 +83,8 @@
   <img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
   <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-341d19?style=for-the-badge&logo=Eclipse&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/copilot-000000?style=for-the-badge&logo=github&logoColor=white">
   
   <h3>Testing</h3>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
