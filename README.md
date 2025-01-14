@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Eclipse-341d19?style=for-the-badge&logo=Eclipse&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/copilot-000000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
   
   <h3>Testing</h3>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
