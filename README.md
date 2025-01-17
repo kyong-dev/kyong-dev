@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/gunicorn-499847?style=for-the-badge&logo=gunicorn&logoColor=white">
   <br>
 
-  <h3>Environments</h3>
+  <h3>Clouds</h3>
   
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
