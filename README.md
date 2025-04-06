@@ -88,6 +88,11 @@
   <br>
   <img src="https://img.shields.io/badge/copilot-000000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+
+  <h3>AI</h3>
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
+  <img src="https://shields.io/badge/-OpenAI-93f6ef?logo=openai">
+  <br>
   
   <h3>Testing</h3>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
