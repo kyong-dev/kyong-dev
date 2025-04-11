@@ -91,6 +91,7 @@
 
   <h3>AI</h3>
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">
   <img src="https://shields.io/badge/-OpenAI-93f6ef?logo=openai">
   <br>
   
