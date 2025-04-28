@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/Eclipse-341d19?style=for-the-badge&logo=Eclipse&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/copilot-000000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
 
   <h3>AI</h3>
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
