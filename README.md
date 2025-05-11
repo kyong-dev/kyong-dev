@@ -46,8 +46,8 @@
   <br>
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/shadcn-ui-blueviolet" alt="shadcn" />
-  <img src="https://img.shields.io/badge/AG_Grid-database%20grid-orange" alt="AG Grid" />
+  <img src="https://img.shields.io/badge/shadcn-ui-blueviolet?style=for-the-badge&logo=shadcn" alt="shadcn" />
+  <img src="https://img.shields.io/badge/AG_Grid-database%20grid-orange?style=for-the-badge&logo=database" alt="AG Grid" />
   
   
   <h3>Databases</h3>
