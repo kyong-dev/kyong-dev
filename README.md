@@ -11,6 +11,7 @@
 * Currently developing a B2B app service for food distribution and ERP, a CRM service for meat processing companies, and an influencer advertising matching platform with a small but highly skilled and driven team.
 * Specialize in Django, but I'm not limited to any platform. I love learning various skill sets.
 * Focusing on implementing a chat service based on LangChain and real data.
+* Interested in building services using LLMs.
 * Love coffee and weight lifting.
 * Happy to have a strong network in South Korea, not only in Busan but also in other regions.
 * <a target="_blank" href="https://kyong-dev.github.io/">Devlog</a><br>
