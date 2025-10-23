@@ -100,6 +100,10 @@
   <img src="https://shields.io/badge/-OpenAI-93f6ef?logo=openai">
   <br>
   
+  <h3>Monitoring</h3>
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">
+  
   <h3>Testing</h3>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
