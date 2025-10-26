@@ -94,6 +94,10 @@
   <img src="https://img.shields.io/badge/copilot-000000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics 4">
+  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager">
+  <img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge&logo=microsoft-clarity&logoColor=white" alt="Microsoft Clarity">
 
   <h3>AI</h3>
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
