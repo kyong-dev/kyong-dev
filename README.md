@@ -9,6 +9,7 @@
 * Graduated Bachelor of Information Technology from Royal Melbourne Institute of Technology, Melbourne AU.
 * Worked as a software engineer in Busan, South Korea, leading a small software development team in e-commerce industry.
 * Currently developing a B2B app service for food distribution and ERP, a CRM service for meat processing companies, and an influencer advertising matching platform with a small but highly skilled and driven team.
+* At the same time, I run my own business that builds software for community support, exploring the intersection of technology and social impact.
 * Specialize in Django, but I'm not limited to any platform. I love learning various skill sets.
 * Focusing on implementing a chat service based on LangChain and real data.
 * Interested in building services using LLMs.
