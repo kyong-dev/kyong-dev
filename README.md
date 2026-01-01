@@ -16,6 +16,7 @@
 * Interested in building services using LLMs.
 * Love coffee and weight lifting.
 * Happy to have a strong network in South Korea, not only in Busan but also in other regions.
+* Run a small development business.
 * <a target="_blank" href="https://kyong-dev.github.io/">Devlog</a><br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"><img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
 
