@@ -8,7 +8,7 @@
 * Used to study and work in Melbourne, Australia.
 * Graduated Bachelor of Information Technology from Royal Melbourne Institute of Technology, Melbourne AU.
 * Worked as a software engineer in Busan, South Korea, leading a small software development team in e-commerce industry.
-* Currently developing a B2B app service for food distribution and ERP, a CRM service for meat processing companies, and an influencer advertising matching platform with a small but highly skilled and driven team.
+* Currently developing a B2B app service for food distribution and ERP, a CRM service for meat processing companies, and an influencer advertising matching platform with a small but highly skilled and driven team. At the same time, personally running a small software development business with various industry partners.
 * At the same time, I run my own business that builds software for community support, exploring the intersection of technology and social impact.
 * building a service designed to accelerate brand growth by leveraging A/B testing and customer data analysis.
 * Specialized in Django, but I'm not limited to any platform. I love learning various skill sets.
@@ -16,7 +16,6 @@
 * Interested in building services using LLMs.
 * Love coffee and weight lifting.
 * Happy to have a strong network in South Korea, not only in Busan but also in other regions.
-* Run a small software development business.
 * <a target="_blank" href="https://kyong-dev.github.io/">Devlog</a><br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"><img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
 
