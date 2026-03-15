@@ -13,7 +13,7 @@
 * building a service designed to accelerate brand growth by leveraging A/B testing and customer data analysis.
 * Specialized in Django, but I'm not limited to any platform. I love learning various skill sets.
 * Focusing on implementing a chat service based on LangChain and real data.
-* Interested in building services using LLMs.
+* Interested in building services using LLMs, as well as enjoying vibe coding which is a simple prototype-level project.
 * Love coffee and weight lifting.
 * Happy to have a strong network in South Korea, not only in Busan but also in other regions.
 * <a target="_blank" href="https://kyong-dev.github.io/">Devlog</a><br>
