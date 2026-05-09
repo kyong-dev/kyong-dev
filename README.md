@@ -110,6 +110,8 @@
   <h3>Monitoring</h3>
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Loki-32ADFF?logo=grafanaloki&logoColor=white">
+  <img src="https://img.shields.io/badge/Promtail-32ADFF?logo=grafana&logoColor=white">
   
   <h3>Testing</h3>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
